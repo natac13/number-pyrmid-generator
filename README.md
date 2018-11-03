@@ -1,0 +1,1 @@
+# number-pyrmid-generator
