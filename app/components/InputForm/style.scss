@@ -1,0 +1,33 @@
+.wrapper {
+  width: 23vw;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-top: 1em;
+}
+
+.inputs {
+
+}
+
+.button-wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+}
+
+.btn {
+  composes: common-btn;
+}
+
+.launch-btn {
+  composes: btn;
+}
+
+.add-btn {
+  composes: btn;
+}
+
+.reset-btn {
+  composes: btn;
+}

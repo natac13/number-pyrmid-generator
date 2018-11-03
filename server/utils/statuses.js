@@ -1,0 +1,9 @@
+export const ALREADY_EXIST = 'ALREADY_EXIST';
+export const CREATED = 'CREATED';
+export const UPDATED_DOC = 'UPDATED_DOC';
+export const FETCH_SUCCESS = 'FETCH_SUCCESS';
+export const FETCH_FAILURE = 'FETCH_FAILURE';
+export const NO_DOCUMENT = 'NO_DOCUMENT';
+export const DATA_FETCH_ERROR = 'DATA_FETCH_ERROR';
+export const DATA_SAVE_ERROR = 'DATA_SAVE_ERROR';
+export const MISSING_DATA = 'MISSING_DATA';
